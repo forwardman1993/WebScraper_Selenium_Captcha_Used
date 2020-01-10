@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77e76dad-85f3-4c0c-ab4b-9beb372a827a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vvn6bfDNh3oveXtJEcl9UjVOkK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.image_recognize">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SehAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SehAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SehAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SehAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="image_recognize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SehAuto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_recognize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.image_recognize" />
+      <item itemvalue="Python.2" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.3" />
+      <item itemvalue="Python.4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.image_recognize" />
+        <item itemvalue="Python.4" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.3" />
+        <item itemvalue="Python.2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77e76dad-85f3-4c0c-ab4b-9beb372a827a" name="Default Changelist" comment="" />
+      <created>1578142261945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578142261945</updated>
+      <workItem from="1578142266529" duration="14476000" />
+      <workItem from="1578597909077" duration="652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578151457664">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="347" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.948@67.27.1853.948" timestamp="1578151457664" />
+    <state x="751" y="203" key="#xdebugger.evaluate" timestamp="1578149328784">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="751" y="203" key="#xdebugger.evaluate/67.27.1853.948@67.27.1853.948" timestamp="1578149328784" />
+    <state width="1807" height="226" key="GridCell.Tab.0.bottom" timestamp="1578252744157">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="226" key="GridCell.Tab.0.bottom/67.27.1853.948@67.27.1853.948" timestamp="1578252744157" />
+    <state width="1807" height="226" key="GridCell.Tab.0.center" timestamp="1578252744156">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="226" key="GridCell.Tab.0.center/67.27.1853.948@67.27.1853.948" timestamp="1578252744156" />
+    <state width="1807" height="226" key="GridCell.Tab.0.left" timestamp="1578252744156">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="226" key="GridCell.Tab.0.left/67.27.1853.948@67.27.1853.948" timestamp="1578252744156" />
+    <state width="1807" height="226" key="GridCell.Tab.0.right" timestamp="1578252744157">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="226" key="GridCell.Tab.0.right/67.27.1853.948@67.27.1853.948" timestamp="1578252744157" />
+    <state width="1807" height="226" key="GridCell.Tab.1.bottom" timestamp="1578252744158">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="226" key="GridCell.Tab.1.bottom/67.27.1853.948@67.27.1853.948" timestamp="1578252744158" />
+    <state width="1807" height="226" key="GridCell.Tab.1.center" timestamp="1578252744158">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="226" key="GridCell.Tab.1.center/67.27.1853.948@67.27.1853.948" timestamp="1578252744158" />
+    <state width="1807" height="226" key="GridCell.Tab.1.left" timestamp="1578252744158">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="226" key="GridCell.Tab.1.left/67.27.1853.948@67.27.1853.948" timestamp="1578252744158" />
+    <state width="1807" height="226" key="GridCell.Tab.1.right" timestamp="1578252744158">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="226" key="GridCell.Tab.1.right/67.27.1853.948@67.27.1853.948" timestamp="1578252744158" />
+    <state x="465" y="46" key="SettingsEditor" timestamp="1578236118242">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="465" y="46" key="SettingsEditor/67.27.1853.948@67.27.1853.948" timestamp="1578236118242" />
+    <state x="640" y="96" width="707" height="807" key="find.popup" timestamp="1578149829449">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="640" y="96" width="707" height="807" key="find.popup/67.27.1853.948@67.27.1853.948" timestamp="1578149829449" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/image_recognize.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="pix[x,y][0]" language="Python" />
+        <watch expression="pix[x,y][0]-delta" language="Python" />
+        <watch expression="hsv[10, 10][0]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SehAuto$3.coverage" NAME="3 Coverage Results" MODIFIED="1578150785618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SehAuto$image_recognize.coverage" NAME="image_recognize Coverage Results" MODIFIED="1578235874523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SehAuto$1.coverage" NAME="1 Coverage Results" MODIFIED="1578151376381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SehAuto$2.coverage" NAME="2 Coverage Results" MODIFIED="1578148909667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SehAuto$4.coverage" NAME="4 Coverage Results" MODIFIED="1578187725438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
